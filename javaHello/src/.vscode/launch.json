@@ -1,0 +1,79 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ABStwo",
+            "request": "launch",
+            "mainClass": "ABStwo",
+            "projectName": "src_1bc512f6"
+        },
+        {
+            "type": "java",
+            "name": "ButtonClickApp",
+            "request": "launch",
+            "mainClass": "ButtonClickApp",
+            "projectName": "src_1bc512f6"
+        },
+        {
+            "type": "java",
+            "name": "DocumentEditorApp",
+            "request": "launch",
+            "mainClass": "DocumentEditorApp",
+            "projectName": "src_1bc512f6"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "src_1bc512f6"
+        },
+        {
+            "type": "java",
+            "name": "MultiScreenApp",
+            "request": "launch",
+            "mainClass": "MultiScreenApp",
+            "projectName": "src_1bc512f6"
+        },
+        {
+            "type": "java",
+            "name": "SimpleCalculatorApp",
+            "request": "launch",
+            "mainClass": "SimpleCalculatorApp",
+            "projectName": "src_1bc512f6"
+        },
+        {
+            "type": "java",
+            "name": "ToDoListApp",
+            "request": "launch",
+            "mainClass": "ToDoListApp",
+            "projectName": "src_1bc512f6"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "application.Main",
+            "projectName": "src_1bc512f6"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "test.test",
+            "projectName": "src_1bc512f6",
+            "vmArgs": "java --module-path \"/Users/piyush/javaHello/src/application\" --add-modules javafx.controls HelloFX"
+        }
+    ]
+}

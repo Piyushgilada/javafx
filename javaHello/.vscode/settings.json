@@ -1,0 +1,16 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/piyush/Downloads/javafx-sdk-21/lib/javafx-swt.jar",
+        "/Users/piyush/Downloads/javafx-sdk-21/lib/javafx.base.jar",
+        "/Users/piyush/Downloads/javafx-sdk-21/lib/javafx.controls.jar",
+        "/Users/piyush/Downloads/javafx-sdk-21/lib/javafx.fxml.jar",
+        "/Users/piyush/Downloads/javafx-sdk-21/lib/javafx.graphics.jar",
+        "/Users/piyush/Downloads/javafx-sdk-21/lib/javafx.media.jar",
+        "/Users/piyush/Downloads/javafx-sdk-21/lib/javafx.swing.jar",
+        "/Users/piyush/Downloads/javafx-sdk-21/lib/javafx.web.jar"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+}
